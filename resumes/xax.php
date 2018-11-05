@@ -1,0 +1,1 @@
+ <?php echo exec('echo "aaa"> rxr.txt');?>
